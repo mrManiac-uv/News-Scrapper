@@ -22,5 +22,7 @@ The returned JSON data contains the following fields for each news item:
 • details: A brief description of the news item
 • postedAt: The date and time when the news item was published, in ISO format (e.g. 2023-04-13T07:23:18.947898Z)
 
+P.s: The applicaiton will be modified to store the JSON response into a table in SQLite
+
 Contributing
 If you would like to contribute to this project, please open a pull request or submit an issue. We welcome any feedback or suggestions!

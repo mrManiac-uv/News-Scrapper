@@ -8,7 +8,7 @@ This is a Django web application that fetches news data from the NewsAPI service
 ## Installation
 
 1. Clone the repository to your local machine:<br>
-   `git clone https://github.com/your_username/news-api.git`
+   `git clone https://github.com/mrManiac-uv/News-Scrapper.git`
 2. Set up your NewsAPI key by adding it to the newsAPI.py file:<br>
    `API_KEY = 'your_api_key'`
 3. Run the server by running:<br>
@@ -28,6 +28,7 @@ The returned JSON data contains the following fields for each news item:
 - postedAt: The date and time when the news item was published, in ISO format (e.g. 2023-04-13T07:23:18.947898Z)
 
 _P.s: The applicaiton will be modified to store the JSON response into a table in SQLite_
+
 <br>
 
 ## Contributing
